@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HRSite\\HR_FE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\pages\\layoutpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\pages\\layoutpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LayoutPage.tsx",
+              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\Pages\\LayoutPage.tsx",
+              "RelativeDocumentMoniker": "src\\Pages\\LayoutPage.tsx",
+              "ToolTip": "D:\\HRSite\\HR_FE\\src\\Pages\\LayoutPage.tsx",
+              "RelativeToolTip": "src\\Pages\\LayoutPage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-19T17:51:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "D:\\HRSite\\HR_FE\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-19T17:50:25.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
