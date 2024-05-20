@@ -1,7 +1,14 @@
+import logo from '../../assets/HR_Logo.png';
 function LayoutHeader() {
-  return (
-    <p>Hello world!</p>
-  );
+    return (
+        <>
+            <header>
+                <img src={logo} alt="Logo" className="img-logo"></img>
+                <strong>Company HR Portal</strong>
+            </header>
+
+        </>
+    );
 }
 
 export default LayoutHeader;
