@@ -1,40 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HRSite\\HR_FE\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\pages\\layoutpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\pages\\layoutpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\components\\layoutcomponentes\\layoutcontent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\components\\layoutcomponentes\\layoutcontent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\styles\\layoutpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\styles\\layoutpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\components\\layoutcomponentes\\layoutheader.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\components\\layoutcomponentes\\layoutheader.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\components\\layoutcomponentes\\layoutfooter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\components\\layoutcomponentes\\layoutfooter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|d:\\hrsite\\hr_fe\\src\\components\\layoutcomponentes\\layoutsidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{AA03E3CC-8BA7-47C3-BF23-9B0D28C9FE9B}|hr_fe.esproj|solutionrelative:src\\components\\layoutcomponentes\\layoutsidebar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\ahmed.mismail\\OneDrive - its.ws\\Documents\\Training\\HRSite\\HR_FE\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,108 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "D:\\HRSite\\HR_FE\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-20T15:50:38.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LayoutPage.css",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\Styles\\LayoutPage.css",
-              "RelativeDocumentMoniker": "src\\Styles\\LayoutPage.css",
-              "ToolTip": "D:\\HRSite\\HR_FE\\src\\Styles\\LayoutPage.css",
-              "RelativeToolTip": "src\\Styles\\LayoutPage.css",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T08:22:03.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LayoutContent.tsx",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutContent.tsx",
-              "RelativeDocumentMoniker": "src\\Components\\LayoutComponentes\\LayoutContent.tsx",
-              "ToolTip": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutContent.tsx",
-              "RelativeToolTip": "src\\Components\\LayoutComponentes\\LayoutContent.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-20T08:09:21.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LayoutSideBar.tsx",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutSideBar.tsx",
-              "RelativeDocumentMoniker": "src\\Components\\LayoutComponentes\\LayoutSideBar.tsx",
-              "ToolTip": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutSideBar.tsx",
-              "RelativeToolTip": "src\\Components\\LayoutComponentes\\LayoutSideBar.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-19T20:14:17.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LayoutHeader.tsx",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutHeader.tsx",
-              "RelativeDocumentMoniker": "src\\Components\\LayoutComponentes\\LayoutHeader.tsx",
-              "ToolTip": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutHeader.tsx",
-              "RelativeToolTip": "src\\Components\\LayoutComponentes\\LayoutHeader.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-19T20:14:16.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LayoutFooter.tsx",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutFooter.tsx",
-              "RelativeDocumentMoniker": "src\\Components\\LayoutComponentes\\LayoutFooter.tsx",
-              "ToolTip": "D:\\HRSite\\HR_FE\\src\\Components\\LayoutComponentes\\LayoutFooter.tsx",
-              "RelativeToolTip": "src\\Components\\LayoutComponentes\\LayoutFooter.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-19T20:14:16.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LayoutPage.tsx",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\Pages\\LayoutPage.tsx",
-              "RelativeDocumentMoniker": "src\\Pages\\LayoutPage.tsx",
-              "ToolTip": "D:\\HRSite\\HR_FE\\src\\Pages\\LayoutPage.tsx",
-              "RelativeToolTip": "src\\Pages\\LayoutPage.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-19T17:51:17.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "main.tsx",
-              "DocumentMoniker": "D:\\HRSite\\HR_FE\\src\\main.tsx",
-              "RelativeDocumentMoniker": "src\\main.tsx",
-              "ToolTip": "D:\\HRSite\\HR_FE\\src\\main.tsx",
-              "RelativeToolTip": "src\\main.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-19T17:50:25.959Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

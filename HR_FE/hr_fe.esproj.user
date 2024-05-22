@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "http://localhost:5173",
-  "webRoot": "D:\\HRSite\\HR_FE"
+  "webRoot": "C:\\Users\\ahmed.mismail\\OneDrive - its.ws\\Documents\\Training\\HRSite\\HR_FE"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>

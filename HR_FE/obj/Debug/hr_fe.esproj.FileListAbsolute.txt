@@ -1,1 +1,3 @@
 D:\HRSite\HR_FE\obj\Debug\hr_fe.esproj.CoreCompileInputs.cache
+C:\Users\ahmed.mismail\OneDrive - its.ws\Documents\Training\HRSite\HR_FE\obj\Debug\hr_fe.esproj.CoreCompileInputs.cache
+C:\Users\ahmed.mismail\OneDrive - its.ws\Documents\Training\HR_FE\obj\Debug\hr_fe.esproj.CoreCompileInputs.cache
